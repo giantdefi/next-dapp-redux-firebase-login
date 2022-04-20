@@ -21,7 +21,7 @@ export default function Dashboard() {
         router.push('/')
         }
         // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [])
+    }, [isLogin])
     //==========================================
 
 
