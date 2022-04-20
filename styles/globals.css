@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.navbar {
+    @apply  shadow-xl top-0 relative text-white
+    }
+    .navbar_nav {
+    @apply flex flex-col max-w-screen-xl  mx-auto md:items-center md:justify-between md:flex-row px-2
+    }
