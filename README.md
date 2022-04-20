@@ -29,3 +29,5 @@ Also install Redux dev tools to monitor the state.
 ## Deploy on Vercel
 
 Check out the deployed of this script on vercel.
+
+https://next-dapp-redux-firebase-login.vercel.app/
